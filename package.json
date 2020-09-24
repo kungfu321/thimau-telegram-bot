@@ -1,0 +1,14 @@
+{
+  "name": "vomanhkien-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kungfu321/vomanhkien-server.git",
+  "author": "Vo Manh Kien <kienvo247@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@vercel/node": "^1.8.1"
+  },
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
